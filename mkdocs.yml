@@ -1,0 +1,14 @@
+
+site_name: 我的技术文档
+site_url: https://HNNU-OD.github.io/my-docs/
+repo_url: https://github.com/HNNU-OD/my-docs
+
+theme:
+  name: material
+  language: zh
+
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 使用指南: guide.md
+  - API参考: api.md
